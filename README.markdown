@@ -1,6 +1,8 @@
 # ey-recipebox
 
-Description goes here.
+Using ey-cloud-recipes is a PITA. This isn't.
+
+Pull just the recipes you want into a cookbooks directory in your app. No git submodules, no multiple forks of the ey-cloud-recipes repo. It's like Burger King, "Have it your way."
 
 ## Contributing to ey-recipebox
  
