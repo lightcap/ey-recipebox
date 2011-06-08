@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/lightcap/ey-recipebox"
   gem.license = "MIT"
   gem.summary = %Q{EngineYard chef recipes made easy.}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.description = %Q{Pull just the recipes you want into a cookbooks directory in your app. No git submodules, no multiple forks of the ey-cloud-recipes repo. It's like Burger King, "Have it your way."}
   gem.email = "matt@codebenders.com"
   gem.authors = ["Matt Kern"]
   # dependencies defined in Gemfile
